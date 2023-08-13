@@ -1,2 +1,2 @@
 this is a test for this project 
-testing: latest
+testing: latest: new testing
